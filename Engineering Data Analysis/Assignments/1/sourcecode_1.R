@@ -1,0 +1,12 @@
+x<-rnorm(25, mean = 0, sd = 1)
+matrix(data = x, nrow = 5, ncol = 5, byrow = F)
+matrix(data = x, nrow = 5, ncol = 5, byrow = T)
+y<-rnorm(100, mean = 1, sd = 0.1)
+z<-hist(y, col="lightgreen")
+names(Auto)
+pairs(Auto)
+pairs(~ mpg + displacement + horsepower + weight + acceleration, Auto,
++ main = "Matrix scatter plots for Auto variables")
+plot(Auto$horsepower,Auto$mpg,xlab="horsepower",ylab="mpg", main=" Plot of mpg vs horsepower")
+abline(lm(Auto$mpg~Auto$horsepower), col="red") # regression line (y~x) 
+lines(lowess(Auto$horsepower,Auto$mpg), col="blue") # lowess line (x,y)
