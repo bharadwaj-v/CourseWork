@@ -27,7 +27,7 @@ plot(cumsum (pve ), xlab=" Principal Component ", ylab =" Cumulative Proportion 
 install.packages("leaps")
 crime.fwd<-regsubsets(violentPerPop~.-communityname-State-fold,data=crimeNonNA,nvmax=20,method="forward")
 
-remove<-c (22, 165, 1594,989)
+
 crimeNew1<-crimeNew[c (-22,-165, -1594, -989),]
 crimeNonNA1<-crimeNew1[complete.cases(crimeNew1),] # consists of 1901 records
 crimeNonNA1<-crimeNonNA1[,c(-1,-2,-3)]

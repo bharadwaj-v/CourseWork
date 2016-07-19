@@ -3,6 +3,7 @@ library(randomForest)
 set.seed(5)
 par(mfrow = c(1,1))
 result<-NULL
+#loop the k to find the k with least error
 for(k in 1:22){
   rf.model<-randomForest(violentPerPop~.,crimeViolenceFinalData1[train,],mtry=k,importance=TRUE,ntree=1501)
   pred.value<-predict(rf.model,crimeViolenceFinalData1[-train,])
@@ -11,7 +12,7 @@ for(k in 1:22){
 }
 plot(result,xlab="number of variables",ylab="Root mean squared error",type="b")
 
-
+#Random forest
 set.seed(1111)
 rf.model<-randomForest(violentPerPop~.,crimeViolenceFinalData1[train,],mtry=14,importance=TRUE,ntree=1501)
 pred.value<-predict(rf.model,crimeViolenceFinalData1[-train,])
@@ -22,6 +23,7 @@ varImpPlot(rf.model)
 getTree(rf.model,1,labelVar = TRUE)
 treesize(rf.model, terminal=TRUE)
 
+#Tree
 set.seed(333)
 tree.data<-tree(violentPerPop~.,crimeViolenceFinalData1[train,])
 par(mfrow=c(1,2))
@@ -31,7 +33,7 @@ summary(tree.data)
 tree.pred<-predict(tree.data ,crimeViolenceFinalData1[-train,])
 mean((tree.pred-crimeViolenceFinalData1[train,]$violentPerPop)^2)
 
-set.seed(10)
+
 tree.data<-tree(violentPerPop~.,crimeViolenceFinalData1[train,])
 cv.data =cv.tree(tree.data,FUN=prune.tree)
 par(mfrow =c(1,2))
