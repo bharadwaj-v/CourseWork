@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Brazos University", "Brazos University\Brazos University.dwproj", "{A65FD12A-4595-4875-B7F9-12A798C8A5A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65FD12A-4595-4875-B7F9-12A798C8A5A5}.Development|Default.ActiveCfg = Development
+		{A65FD12A-4595-4875-B7F9-12A798C8A5A5}.Development|Default.Build.0 = Development
+		{A65FD12A-4595-4875-B7F9-12A798C8A5A5}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

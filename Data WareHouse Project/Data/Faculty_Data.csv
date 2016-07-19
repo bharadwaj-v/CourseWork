@@ -1,0 +1,69 @@
+FacultyKey,CourseKey,Faculty Department,FacultyFirstName,FacultyLastName,Position,Experience,FacultyEmail,FacultyPhone
+1,1,Accounting,Alejandro,Arenas,Professor,20,Alejandro.Arenas@brazos.edu,5117641603
+2,18,Accounting,Alejandro,Arenas,Professor,20,Alejandro.Arenas@brazos.edu,5117641603
+4,35,Computer Science,Amelia,Ayers,Professor,20,Amelia.Ayers@brazos.edu,6217300710
+5,34,Computer Science,Amelia,Ayers,Professor,20,Amelia.Ayers@brazos.edu,6217300710
+6,37,Engineering,Ana,Arellano,Professor,20,Ana.Arellano@brazos.edu,9797300761
+7,45,Engineering,Ana,Arellano,Professor,20,Ana.Arellano@brazos.edu,9797300761
+8,36,Engineering,Andrea,Alonzo,Professor,20,Andrea.Alonzo@brazos.edu,9797309861
+9,38,Engineering,Andrea,Alonzo,Professor,20,Andrea.Alonzo@brazos.edu,9797309861
+10,39,Engineering,Christina,Alexander,Associate Professor,15,Christina.Alexander@brazos.edu,9797400600
+11,40,Engineering,Christina,Alexander,Associate Professor,15,Christina.Alexander@brazos.edu,9797400600
+12,41,Engineering,David,Allen,Associate Professor,15,David.Allen@brazos.edu,9797400601
+13,42,Engineering,David,Allen,Associate Professor,15,David.Allen@brazos.edu,9797400601
+14,43,Engineering,Dennis,Apple,Clinical Professor,8,Dennis.Apple@brazos.edu,9797400609
+15,44,Engineering,Dennis,Apple,Clinical Professor,8,Dennis.Apple@brazos.edu,9797400609
+16,20,Finance,Edwin,Abaquita,Professor,25,Edwin.Abaquita@brazos.edu,9797300861
+17,21,Finance,Edwin,Abaquita,Professor,25,Edwin.Abaquita@brazos.edu,9797300861
+18,2,Information Systems and Operations,Elaine,Anthony,Professor,26,Elaine.Anthony@brazos.edu,9797300891
+19,3,Information Systems and Operations,Elaine,Anthony,Professor,26,Elaine.Anthony@brazos.edu,9797300891
+20,4,Information Systems and Operations,Elena,Taktikos,Professor,27,Elena.Taktikos@brazos.edu,9798300641
+21,5,Information Systems and Operations,Elena,Taktikos,Professor,27,Elena.Taktikos@brazos.edu,9798300641
+22,6,Information Systems and Operations,Frank,Appunn,Associate Professor,15,Frank.Appunn@brazos.edu,9797400602
+23,7,Information Systems and Operations,Frank,Appunn,Associate Professor,15,Frank.Appunn@brazos.edu,9797400602
+24,8,Information Systems and Operations,Gary,Abernethy,Associate Professor,15,Gary.Abernethy@brazos.edu,9797400603
+25,9,Information Systems and Operations,Gary,Abernethy,Associate Professor,15,Gary.Abernethy@brazos.edu,9797400603
+26,10,Information Systems and Operations,James,Angle,Clinical Professor,8,James.Angle@brazos.edu,9797400623
+27,11,Information Systems and Operations,James,Angle,Clinical Professor,8,James.Angle@brazos.edu,9797400623
+28,12,Information Systems and Operations,Joanne,Ajmo,Professor,23,Joanne.Ajmo@brazos.edu,9799300761
+29,13,Information Systems and Operations,Joanne,Ajmo,Professor,23,Joanne.Ajmo@brazos.edu,9799300761
+30,14,Information Systems and Operations,Julie,Adamich,Clinical Professor,9,Julie.Adamich@brazos.edu,9797415603
+31,15,Information Systems and Operations,Julie,Adamich,Clinical Professor,9,Julie.Adamich@brazos.edu,9797415603
+32,53,Mathematics,Kari,Allen,Professor,25,Kari.Allen@brazos.edu,9797300751
+33,54,Mathematics,Kari,Allen,Professor,25,Kari.Allen@brazos.edu,9797300751
+34,55,Mathematics,Kenneth,Afienko,Professor,24,Kenneth.Afienko@brazos.edu,9797300466
+35,57,Mathematics,Kenneth,Afienko,Professor,24,Kenneth.Afienko@brazos.edu,9797300466
+36,56,Mathematics,Kylie,Aliberto,Professor,25,Kylie.Aliberto@brazos.edu,9797300551
+37,31,Mathematics,Kylie,Aliberto,Professor,25,Kylie.Aliberto@brazos.edu,9797300551
+3,19,Accounting,Loree,Atkinson,Professor,30,Loree.Atkinson@brazos.edu,6117300710
+38,32,Mathematics,Loree,Atkinson,Professor,30,Loree.Atkinson@brazos.edu,9797300710
+39,22,Marketing,Margarita,Altuna,Associate Professor,14,Margarita.Altuna@brazos.edu,9797400813
+40,23,Marketing,Margarita,Altuna,Associate Professor,14,Margarita.Altuna@brazos.edu,9797400813
+41,24,Marketing,May,Alves,Associate Professor,13,May.Alves@brazos.edu,9797400604
+42,25,Marketing,May,Alves,Associate Professor,13,May.Alves@brazos.edu,9797400604
+43,26,Marketing,Michelle,Ardila,Professor,25,Michelle.Ardila@brazos.edu,9797300487
+44,27,Marketing,Michelle,Ardila,Professor,25,Michelle.Ardila@brazos.edu,9797300487
+45,46,Marketing,Mike,Adams,Professor,22,Mike.Adams@brazos.edu,9797300770
+47,29,Marketing,Mike,Adams,Professor,22,Mike.Adams@brazos.edu,9797300770
+48,33,Physics,Neoka,Apple,Professor,24,Neoka.Apple@brazos.edu,9797300750
+49,47,Physics,Neoka,Apple,Professor,24,Neoka.Apple@brazos.edu,9797300750
+50,48,Physics,Osiris,Albrecht,Professor,25,Osiris.Albrecht@brazos.edu,9797300568
+51,49,Physics,Osiris,Albrecht,Professor,25,Osiris.Albrecht@brazos.edu,9797300568
+52,50,Physics,Paul,Andrews,Clinical Professor,10,Paul.Andrews@brazos.edu,9797411603
+53,51,Physics,Paul,Andrews,Clinical Professor,10,Paul.Andrews@brazos.edu,9797411603
+54,52,Physics,Rebekah,Apple,Professor,23,Rebekah.Apple@brazos.edu,9797300536
+55,16,Information Systems and Operations,Richard,Albero,Clinical Professor,7,Richard.Albero@brazos.edu,9797300596
+56,17,Information Systems and Operations,Richard,Albero,Clinical Professor,7,Richard.Albero@brazos.edu,9797300596
+57,30,Statistics,Robert,Austin,Clinical Professor,7,Robert.Austin@brazos.edu,9797300765
+58,58,Statistics,Robert,Austin,Clinical Professor,7,Robert.Austin@brazos.edu,9797300765
+59,59,Statistics,Sahar,Attia,Clinical Professor,7,Sahar.Attia@brazos.edu,9797300647
+60,60,Statistics,Sahar,Attia,Clinical Professor,7,Sahar.Attia@brazos.edu,9797300647
+46,28,Marketing,Sharath,Rao,Professor,23,Sharath.Rao@brazos.edu,9797300492
+61,61,Statistics,Stephen,Andrasik,Associate Professor,13,Stephen.Andrasik@brazos.edu,9797400605
+62,62,Statistics,Stephen,Andrasik,Associate Professor,13,Stephen.Andrasik@brazos.edu,9797400605
+63,63,Statistics,Ted,Ajmo,Clinical Professor,11,Ted.Ajmo@brazos.edu,9797521603
+64,64,Statistics,Ted,Ajmo,Clinical Professor,11,Ted.Ajmo@brazos.edu,9797521603
+65,65,Statistics,Toni,Ashe,Clinical Professor,11,Toni.Ashe@brazos.edu,9797541603
+66,66,Statistics,Toni,Ashe,Clinical Professor,11,Toni.Ashe@brazos.edu,9797541603
+67,67,Statistics,Tori,Austin,Clinical Professor,11,Tori.Austin@brazos.edu,9797641603
+68,68,Statistics,Tori,Austin,Clinical Professor,11,Tori.Austin@brazos.edu,9797641603

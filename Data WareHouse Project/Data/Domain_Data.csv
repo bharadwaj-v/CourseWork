@@ -1,0 +1,30 @@
+DomainKey,DomainCategory,DomainSubCategory,Role
+1,Advertising,Public Relations,PR Manager
+2,Automobiles,Manufacturing,Floor Supervisor
+3,Automobiles,Manufacturing,Repair Technician
+4,Automobiles,Manufacturing,Maintainance Technician
+5,Automobiles,Warehousing,Warehouse Manager
+6,Automobiles,Service,Service Engineer
+7,Automobiles,Service,Service Manager
+8,BFSI,Insurance,Underwriter
+9,BFSI,Banking,Banking Analyst
+10,BFSI,Investment and Trading,Trading Analyst
+11,BFSI,Insurance,Senior Underwriter
+12,BFSI,Banking,Billing Manager
+13,BFSI,Investment and Trading,Client Relationship Manager
+14,Consulting,IT Consulting,Senior Consultant
+15,Consulting,Management Consulting,Associate Consultant
+16,Energy and Power,Petroleum Engineering,Senior Engineer
+17,Energy and Power,Reasearch and Development,R&D Specialist
+18,Engineering and Manufacturing,Production,Production Manager
+19,Engineering and Manufacturing,Support and Services,Service Manager
+20,FMCG,Sales,Sales Manager
+21,FMCG,Retail,Retail Analyst
+22,FMCG,Supply Chain,Operations Analyst
+23,Information technology,Development,Senior Programmer
+24,Information technology,Support,Support Engineer
+25,Information technology,Quality Assurance,Quality Assurance Manager
+26,Information technology,Data Management,Data Analyst
+27,Information technology,Infrastructure,Infrastructure Maintainance Engineer
+28,Media and Entertainment,Radio,Radio Jockey
+29,Media and Entertainment,Visual Communication,Assistant Designer

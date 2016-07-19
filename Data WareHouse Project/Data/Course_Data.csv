@@ -1,0 +1,69 @@
+CourseKey,DepartmentKey,CourseId,CourseName,CourseCredits,CourseMaxSize,CourseFee
+1,4,ACCT 640,Accounting Controls and Procedures,3,20,2119
+18,4,ACCT 644,Control & Audit of Information Systems,3,37,1994
+19,4,ACCT 648,Accounting Information Systems,3,38,1569
+35,9,CS 151,Information Skills,3,33,2123
+34,9,CS 154,Programming,3,33,1847
+37,5,ENGG 151,Industrial Automation I,3,33,2406
+45,5,ENGG 154,Environmental engineering,3,20,2339
+36,5,ENGG 601,Materials Science and Engineering,3,33,2449
+38,5,ENGG 602,Electrical Power Engineering Fundamentals,3,33,1512
+39,5,ENGG 603,Thermal Engineering,3,33,1595
+40,5,ENGG 604,Machine Mechanics,3,33,1676
+41,5,ENGG 605,Machine Theory,3,20,2329
+42,5,ENGG 606,Vehicle Theory,3,20,2192
+43,5,ENGG 607,Industrial Organization,4,20,2372
+44,5,ENGG 608,Design of production and logistic systems,3,20,1772
+20,3,FIN 629,Financial Management I,3,39,1919
+21,3,FIN 630,Financial Management II,3,40,2460
+2,1,ISYS 622,Advanced Database Management,3,21,1582
+3,1,ISYS 624,Advanced Systems Analysis and Design,3,22,2354
+4,1,ISYS 630,MIS Project Management and Implementation,3,23,2107
+5,1,ISYS 631,Information Systems Design and Development,3,24,1927
+6,1,ISYS 635,Business Information Security,4,25,1891
+7,1,ISYS 637,Data Warehousing,3,26,1667
+8,1,ISYS 640,Information Systems Sourcing,3,27,2060
+9,1,ISYS 643,Corporate Information Planning,3,28,1544
+10,1,ISYS 645,IT Security Controls,4,29,1668
+11,1,ISYS 646,E-Services,3,30,2278
+12,1,ISYS 650,Data Mining,3,31,2159
+13,1,ISYS 652,Customer Relationship Management Technologies,3,32,2160
+14,1,ISYS 655,Security Management and Compliance,3,33,1789
+15,1,ISYS 684,Professional Internship,3,34,1605
+53,7,MATH 100,Excursions in Mathematics,3,30,2484
+54,7,MATH 101,Trigonometry  ,4,30,1667
+55,7,MATH 103,College Algebra and Probability,3,30,1574
+57,7,MATH 105,Precalculus I  ,4,30,2384
+56,7,MATH 109,College Algebra and Probability Submodule,3,30,1906
+31,7,MATH 504,Calculus I,3,33,1570
+32,7,MATH 505,Linear Algebra,3,33,2254
+22,2,MGMT 632,Technology Commercialization,3,41,2346
+23,2,MGMT 633,Organizational Change & Development,4,33,1645
+24,2,MGMT 637,Foundations of Entrepreneurship,3,33,2243
+25,2,MGMT 639,Negotiations in Competitive Environments,3,33,1802
+26,2,MGMT 655,Survey of Management,3,33,1553
+27,2,MGMT 680,Business and Corporate Strategy,3,33,1605
+46,2,MKTG 609,Marketing management ,4,20,2000
+28,2,MKTG 621,Survey of Marketing,3,33,2385
+29,2,MKTG 677,Multinational Marketing Management,3,33,2167
+33,8,PHY 101,Physics,3,33,1921
+47,8,PHY 401,Applied Physics,3,20,1966
+48,8,PHY 402,Chemical Physics,4,20,1774
+49,8,PHY 403,Computational Physics,3,20,1618
+50,8,PHY 404,Geophysics,3,20,1746
+51,8,PHY 405,Industrial Physics,3,30,2039
+52,8,PHY 406,Physics Lab/Demonstration Management,3,30,1537
+16,1,SCMT 645,Business Process Design,4,35,1537
+17,1,SCMT 667,Logistics and Distribution Management,3,36,1793
+30,6,STAT 604,Topics in Statistical Computation,3,33,1925
+58,6,STAT 638 , INTRODUCTION TO APPLIED BAYESIAN METHODS,3,30,2297
+59,6,STAT 641 , THE METHODS OF STATISTICS I,3,30,1572
+60,6,STAT 642 , THE METHODS OF STATISTICS II,3,36,2471
+61,6,STAT 643 , BIOSTATISTICS I,3,36,2328
+62,6,STAT 644 , BIOSTATISTICS II,3,36,2445
+63,6,STAT 645 , APPLIED BIOSTATISTICS,3,36,1856
+64,6,STAT 646 , STATISTICAL BIOINFORMATICS,4,36,2389
+65,6,STAT 647 , SPATIAL STATISTICS,3,36,2270
+66,6,STAT 648 , APPLIED STATISTICS,3,36,1983
+67,6,STAT 651 , STATISTICS IN RESEARCH I,3,36,1512
+68,6,STAT 652 , STATISTICS IN RESEARCH II,3,36,2485
